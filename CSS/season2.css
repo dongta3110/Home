@@ -1,0 +1,31 @@
+h1{
+    /*color:red;*/
+    /*color: rgb(150,50,30);*/
+    color: #8245a450;
+    font-size: 50px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+p{
+    color: #222222;
+    font-size: 14px;
+    line-height: 1.5;
+    text-align: center/*justify*/; /*center/right/left */
+    /*width: 800px;*/
+    text-transform: uppercase; /*lowercase*/
+    /*text-decoration: line-through !*overline*! !*underline*!;*/
+    font-family: fantasy;
+    font-weight: 400;
+    /*thin-100,light-300,nomal-400,semi-bold-500,bold-700,extra-bold-800,black-900*/
+    background-color: yellowgreen;
+}
+body{
+    background-color: #fafafa;
+    /*background-image: url("../imgs/10.jpg");*/
+    /*background-repeat: repeat-x!*no-repeat*!;*/
+    background-size: cover /*contain*/;
+}
+img{
+    max-width: 100%;
+}
