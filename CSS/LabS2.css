@@ -1,0 +1,39 @@
+body{
+    width: 650px;
+    margin: 25px auto;
+    font-size: small;
+}
+
+.Thongtin{
+    display:flex;
+    border-bottom: 3px dashed #e03189;
+
+}
+
+.right{
+    flex: 50%;
+    width: 50%;
+    text-align: right;
+}
+
+.left{
+    flex: 50%;
+}
+
+img{
+    height: 150px;
+}
+
+h4{
+    color: #e03189;
+}
+
+p{
+    border-bottom: 3px dashed #e03189;
+}
+.thoigian{
+    display: flex;
+}
+.cty{
+    margin: auto;
+}

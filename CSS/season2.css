@@ -1,11 +1,14 @@
 h1{
     /*color:red;*/
     /*color: rgb(150,50,30);*/
-    color: #8245a450;
-    font-size: 50px;
-    line-height: 1.5;
-    text-align: center;
 }
+/*    color: #8245a450;*/
+/*    font-size: 50px;*/
+/*    line-height: 1.5;*/
+/*    text-align: center;*/
+/*    border: 10px solid bisque;*/
+/*    !*boder-bottom/top/right/left*!*/
+/*}*/
 
 p{
     color: #222222;
