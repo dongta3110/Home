@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    color:#222222;
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    background-color: #fafafa;
+}
+.section{
+    float: left;
+    width: 100%;
+}
+.container{
+    float: none;
+    width: 1170px;
+    margin:0 auto;
+}
+.content{
+    float: left;
+}
+.header {
+    background-image: url("../imgs/1.jpg");
+    padding: 20px 0;
+}
+.logo{
+    float: left;
+    width: 25%;
+}

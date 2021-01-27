@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.page{
+    width: 1000px;
+    background-color: #dbd6d6;
+    margin: 25px auto;
+}
+.top{
+    background-color: white;
+    display: flex;
+}
+.top .left{
+    padding: 20px 30px;
+
+}
+.top .right{
+    display: flex;
+}

@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+.page{
+    width: 712px;
+    margin: 10px auto;
+    background-color: #dbd6d6;
+}
+ .page .top{
+     background-color: white;
+     margin: 10px 20px;
+     padding: 20px 20px;
+     font-weight: 700;
+     font-size: small;
+ }
+
+ img{
+     width: 150px;
+     height: 200px;
+ }
+
+.bo{
+    width: 150px;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.name{
+    text-align: center;
+    background-color: white;
+    font-weight: 600;
+    padding: 10px;
+}
+
+.gthieu{
+    text-align: center;
+    background-color: white;
+    font-size: x-small;
+}
+
+.gia{
+    text-align: center;
+    background-color: white;
+    font-weight: 600;
+    padding: 10px;
+}
+
+.pro{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: x-small;
+    padding: 3px;
+}
+
